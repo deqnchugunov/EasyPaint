@@ -1,4 +1,4 @@
 ProjectPaint
 ============
 
-Project Easy Paint
+Simple Windows Forms application for drowing geometric shapes
