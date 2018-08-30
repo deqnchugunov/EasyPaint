@@ -1,4 +1,4 @@
 ProjectPaint
 ============
 
-Simple Windows Forms application for drowing geometric shapes
+Simple Windows Forms application for drawing geometric shapes
